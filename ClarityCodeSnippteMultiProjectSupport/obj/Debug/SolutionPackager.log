@@ -1,0 +1,19 @@
+2022-12-27 17:18:55.897 - Info	
+Packing C:\Users\mam\OneDrive\Blog Stuff\ClarityPPPart2\ClarityCodeSnippetUpdate\ClarityCodeSnippteMultiProjectSupport\obj\Debug\Metadata to bin\Debug\ClarityCodeSnippteMultiProjectSupport.zip
+
+2022-12-27 17:18:55.913 - Info	Processing Component: Entities
+2022-12-27 17:18:55.916 - Info	Processing Component: Roles
+2022-12-27 17:18:55.919 - Info	Processing Component: Workflows
+2022-12-27 17:18:55.919 - Info	Processing Component: FieldSecurityProfiles
+2022-12-27 17:18:55.919 - Info	Processing Component: Templates
+2022-12-27 17:18:55.920 - Info	Processing Component: EntityMaps
+2022-12-27 17:18:55.921 - Info	Processing Component: EntityRelationships
+2022-12-27 17:18:55.925 - Info	Processing Component: OrganizationSettings
+2022-12-27 17:18:55.926 - Info	Processing Component: optionsets
+2022-12-27 17:18:55.926 - Info	Processing Component: CustomControls
+2022-12-27 17:18:55.934 - Info	 - ClarityNameSpace.ClarityComponent
+2022-12-27 17:18:55.940 - Info	Processing Component: SolutionPluginAssemblies
+2022-12-27 17:18:55.941 - Info	Processing Component: EntityDataProviders
+2022-12-27 17:18:55.984 - Info	
+Unmanaged Pack complete.
+

@@ -1,0 +1,2 @@
+C:\Users\mam\OneDrive\Blog Stuff\ClarityPPPart2\ClarityCodeSnippetUpdate\obj\Debug\ClarityCodeSnippetUpdate.pcfprojAssemblyReference.cache
+C:\Users\mam\OneDrive\Blog Stuff\ClarityPPPart2\ClarityCodeSnippetUpdate\obj\Debug\ClarityCodeSnippetUpdate.pcfproj.CoreCompileInputs.cache

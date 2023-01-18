@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1KC7jCn9CyilCvqbXaN6PTL8lWviZTo7xiW0vf+bX0vpaJiyDEyvYHd6yKRUMCwph6Kdz4WOvMWEB6C/OL+eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mam\\OneDrive\\Blog Stuff\\ClarityPPPart2\\ClarityCodeSnippetUpdate\\ClarityCodeSnippteMultiProjectSupport\\ClarityCodeSnippteMultiProjectSupport.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mam\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\mam\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\mam\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.21.5\\microsoft.powerapps.msbuild.pcf.1.21.5.nupkg.sha512",
+    "C:\\Users\\mam\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.21.5\\microsoft.powerapps.msbuild.solution.1.21.5.nupkg.sha512"
+  ],
+  "logs": []
+}
